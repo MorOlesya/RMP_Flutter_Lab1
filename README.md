@@ -6,7 +6,7 @@
 
 ## Скриншот приложения
 
-[криншот приложени](img/working_app_Morozova.png)
+![криншот приложени](img/working_app_Morozova.png)
 
 ## Как запустить
 
